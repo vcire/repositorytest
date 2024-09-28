@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extras>
+  <pkg>
+    <apkid>1</apkid>
+    <cmt>This battery app will show battery percentage on your nofifications bar.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>2</apkid>
+    <cmt>Busybox installer for android 1.6.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>3</apkid>
+    <cmt>Browse your SD card, install apk's and share files via bluetooth!'</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>4</apkid>
+    <cmt>Kill unnecesary apps running in the background and optimize your phone!</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>5</apkid>
+    <cmt>Planificate routes and search places.</cmt>
+    <catg>Applications</catg>
+    <catg2>Travel</catg2>
+  </pkg>
+  <pkg>
+    <apkid>6</apkid>
+    <cmt>Move apps to your SD Card with a EXT2 partition.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>7</apkid>
+    <cmt>Check if you have got root acces on your device.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>8</apkid>
+    <cmt>Browse files on your phone.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>9</apkid>
+    <cmt>Install speech synthesis data needed for some apps.</cmt>
+    <catg>Applications</catg>
+    <catg2>Software Libraries</catg2>
+  </pkg>
+  <pkg>
+    <apkid>10</apkid>
+    <cmt>Terminal for your android device.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>11</apkid>
+    <cmt>Make backups for your apps and uninstall bloatware.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+  <pkg>
+    <apkid>12</apkid>
+    <cmt>Browse files.</cmt>
+    <catg>Applications</catg>
+    <catg2>Tools</catg2>
+  </pkg>
+</extras>
